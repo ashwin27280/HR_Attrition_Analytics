@@ -1,4 +1,4 @@
-# 👥 HR Analytics Dashboard (Employee Attrition Analysis)
+# HR Analytics Dashboard (Employee Attrition Analysis)
 
 An interactive **Power BI dashboard** built to analyze employee attrition and understand why employees leave an organization. It helps HR teams identify turnover trends and make better decisions to improve employee retention.
 
@@ -107,19 +107,17 @@ Simple business insights are also included to highlight the key findings from ea
 
 ---
 
-# 📸 Dashboard Preview
+## 📸 Dashboard Preview
 
 ### Attrition Overview
 
-```markdown
-![Attrition Overview](https://github.com/ashwin27280/HR_Attrition_Analytics/blob/main/Snapshot%20of%20HR_Attrition_Dashboard1.png)
-```
+![Attrition Overview](images/Snapshot%20of%20HR_Attrition_Dashboard1.png)
+
+---
 
 ### Attrition Drivers & Insights
 
-```markdown
-![Attrition Drivers & Insights](https://github.com/ashwin27280/HR_Attrition_Analytics/blob/main/Snapshot%20of%20HR_Attrition_Dashboard2.png)
-```
+![Attrition Drivers & Insights](images/Snapshot%20of%20HR_Attrition_Dashboard2.png)
 
 ---
 
